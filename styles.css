@@ -147,6 +147,7 @@ header .navbar {
 
 }
 
+
 .hero-section .section-content {
     display: flex;
     align-items: center;
@@ -307,6 +308,10 @@ header .navbar {
     margin: 12px 0;
     font-size: var(--font-size-l);
     font-weight: var(--font-weight-semibold);
+}
+.btn.btn-success-2 {
+    background-color: #b2c95b;
+    color: #fff;
 }
 
 /* Gallery stylings */
