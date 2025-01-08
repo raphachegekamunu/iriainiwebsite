@@ -297,6 +297,8 @@ header .navbar {
     aspect-ratio: 1;
     margin-bottom: 15px;
     object-fit: contain;
+    cursor: zoom-in;
+    transition: 0.3s ease;
 }
 
 .leadership-section .leadership-list .leadership-item .text {
@@ -478,7 +480,7 @@ align-items: center;
     color: var(--white-color);
     transition: 0.2s ease;;
 }
-
+ 
 .footer-section .policy-text .separator{
 color: var(--white-color);
 margin: 0 5px;
